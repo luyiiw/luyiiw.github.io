@@ -8,7 +8,7 @@
 <img src="images/transittracker_wireframe.png?raw=true"/>
 
 ---
-[Projecting Bike Share Demand using Space-Time Prediction](/pdf/sample_presentation.pdf)
+[Projecting Bike Share Demand using Space-Time Prediction](R_projects/Wong_WorkSample_BikeShare.html)
 <img src="images/bikeshare_predictions.png?raw=true"/>
 
 ---
