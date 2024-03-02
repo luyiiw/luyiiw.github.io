@@ -4,7 +4,7 @@
 
 ### R Coding & Data Visualization
 
-[Transit Tracker using Geospatial Machine Learning](/sample_page)
+[Transit Tracker using Geospatial Machine Learning](R_projects/Wong_WorkSample_TransitTracker.html)
 <img src="images/transittracker_wireframe.png?raw=true"/>
 
 ---
