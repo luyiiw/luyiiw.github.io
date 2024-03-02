@@ -8,8 +8,8 @@
 <img src="images/transittracker_wireframe.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Projecting Bike Share Demand using Space-Time Prediction](/pdf/sample_presentation.pdf)
+<img src="images/bikeshare_predictions.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
