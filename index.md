@@ -26,17 +26,7 @@
 
 **Project Description**: For this project I explore using a cost and benefit analysis to increase program enrollment for a housing subsidy program. I aimed to identify numerical and categorical variables that correlates with program enrollment. In this project I experiment with using Confusion Matrix and Receiver Operating Characteristic (ROC) Curve to understand goodness of fit.
 
----
 
-### Design & Writing
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
