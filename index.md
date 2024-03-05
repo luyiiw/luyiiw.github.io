@@ -32,11 +32,13 @@
 **Skills**: R, Data Cleaning and Exploration, Cross-Validation, Cost-Benefit Analysis, Communication
 
 **Programs**: Rstudio
+
 ---
 
 ## Design & Writing
 
 [Studio Current Conditions Report](pdf/CurrentConditions.pdf)
+
 **Project Description**: This was an exercise to practice my data communication and design skills. For this exercise, I wrote an excerpt of a current conditions report for Yeadon Borough, Delaware County, Pennsylvania. This excerpt examines the current social demographic situation in Yeadon. The chapter was made in InDesign.
 
 **Skills**: Design, Data Visualization and Communication, Writing
@@ -45,14 +47,16 @@
 
 ---
 [Undergraduate Capstone Food Insecurity in NYS: Final Paper](pdf/Capstone_Undergrad_Paper.pdf)
-[Final Presentation](pdf/Capstone_Undergrad_Presentation.pdf)
-<img src="images/NYSFoodMap_wireframe.png?raw=true"/>
 
+[Final Presentation](pdf/Capstone_Undergrad_Presentation.pdf)
+
+<img src="images/NYSFoodMap_wireframe.png?raw=true"/>
 **Project Description**: Food Insecurity is a national concern in the US. The COVID-19 pandemic exacerbated food insecurity across the nation. My undergraduate capstone project aimed to identify a blueprint to build a robust food insecurity map that increases the accessibility of relevant information for local stakeholders. For this project, I examine existing conditions of food insecurity in New York State, evaluate existing food insecurity tools, and propose a new resource. The tool that I propose is the NYS Food Map. My proposal is accompanied by wireframes of the online application and a detailed description of the tool’s intent and the rationale behind its design.
 
 **Skills**: Writing, Research, Communication, Data Analysis, Wireframing, Mapping
 
 **Programs**: Microsoft Excel, Tableau, Figma
+
 *This paper was written while I was an undergraduate at New York University, Tandon School of Engineering. This capstone project was part of my graduation requirement for my degree in Sustainable Urban Environments.*
 
 ---
