@@ -38,6 +38,7 @@
 ## Design & Writing
 
 [Studio Current Conditions Report](pdf/CurrentConditions.pdf)
+<img src="images/currentconditions_screenshot.png?raw=true"/>
 
 **Project Description**: This was an exercise to practice my data communication and design skills. For this exercise, I wrote an excerpt of a current conditions report for Yeadon Borough, Delaware County, Pennsylvania. This excerpt examines the current social demographic situation in Yeadon. The chapter was made in InDesign.
 
