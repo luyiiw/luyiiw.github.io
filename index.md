@@ -8,7 +8,7 @@
 
 **Project Description**: Train delays can be incredibly frustrating for riders. Since the pandemic, mass-transit ridership has been slow to bounce back to pre-pandemic levels. I wanted to create a mass transit tracking model that could predict train delays, so that train operators can anticipate potential delays and address issues before severe delays are accrued. I designed this project, using NJ Transit as the client. This project shows how I used spatial-autocorrelation, time-features, and physical features to predict train delays.  
 
-**Skills**: R, Feature Engineering, Machine Learning, Data Analysis, Communication, Wire framing
+**Skills**: R, Feature Engineering, Machine Learning, Data Analysis, Communication, Wire framing, Collaboration
 
 **Programs**: RStudio, Figma
 
@@ -44,7 +44,7 @@
 
 **Skills**: Design, Data Visualization and Communication, Writing
 
-**Programs**: Adobe Suite InDesign and Illustrator, Microsoft Excel
+**Programs**: Adobe Suite InDesign and Illustrator, Microsoft Excel, ArcGIS
 
 ---
 [Undergraduate Capstone Food Insecurity in NYS: Final Paper](pdf/Capstone_Undergrad_Paper.pdf)
