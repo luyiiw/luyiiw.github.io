@@ -23,6 +23,16 @@
 **Programs**: RStudio
 
 ---
+[Modeling Urban Growth using Agent Based Modeling](https://youtu.be/1GqhenJCgj8?si=sUv_YL-23rEAiOjF)
+<img src="images/urbangrowthmodel.png?raw=true"/>
+
+**Project Description**: This is a Cellular Automata model, that simulates the urban growth under certain constraints and conditions. Our model illustrates how development would "naturally" occur, given land use compatibility. This project shows how our team experimented with various variables to create an interactive modeling tool to simulate urban growth under various customizable conditions. For this project, my primary responsibility was writing and testing the NetLogo code. 
+
+**Skills**: Agent-based modeling, Communication, Collaboration
+
+**Programs**: NetLogo
+
+---
 [Modeling Housing Subsidy Demands to Increase Program Enrollment](R_projects/Wong_WorkSample_HousingSubsidy.html)
 <img src="images/housingsubsidy_roc.png?raw=true"/>
 
