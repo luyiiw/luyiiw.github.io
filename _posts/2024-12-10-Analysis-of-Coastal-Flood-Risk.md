@@ -34,4 +34,4 @@ By incorporating data-driven analysis, flood modeling, and socio-economic assess
 This project highlights the necessity of proactive resilience planning, equitable adaptation strategies, and long-term policy solutions. As sea levels continue to rise, understanding the interplay between environmental, socio-economic, and infrastructural factors is crucial in shaping sustainable urban futures.
 
 ## Additional Resources
-**Readers are encouraged to explore the full StoryMap for a richer interactive experience**: [ArcGIS StoryMap Link]("https://arcg.is/0DyeT5").
+**Readers are encouraged to explore the full StoryMap for a richer interactive experience**: [ArcGIS StoryMap Link](https://arcg.is/0DyeT5).
